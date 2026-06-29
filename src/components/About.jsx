@@ -57,9 +57,12 @@ const About = () => {
             We are committed to helping you find the perfect property with ease and confidence.Whether you're buying, selling, or renting, our platform offers a wide range of verified properties, expert guidance, and a seamless experience. Our mission is to make real estate simple, transparent, and accessible for everyone.
           </p>
 
-          <button className="bg-blue-600 text-white px-8 py-2 rounded">
-            Learn More
-          </button>
+             <button
+  className="bg-blue-600 text-white px-8 py-2 rounded"
+  onClick={() => alert("Welcome!")}
+>
+  Learn More
+</button>
         </div>
       </div>
     </motion.div>
