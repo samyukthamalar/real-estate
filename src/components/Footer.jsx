@@ -9,7 +9,7 @@ const  Footer = () => {
 >
       <div className="container mx-auto flex flex-col md:flex-row justify-between items-start">
         <div className='w-full md:w-1/3 mb-8 md:mb-0'><img src={assets.logo_dark} alt="" />
-        <p className='text-gray-400 mt-4'>Lorem ipsum dolor sit amet.
+        <p className='text-gray-400 mt-4'>Helping you discover your dream property with trusted listings, expert support, and a hassle-free real estate experience.
           </p></div>
         <div className='w-full md:w-1/5 mb-8 md:mb-0'>
           <h3 className='text-white text-lg font-bold mb-4'>Company</h3>
